@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product>
+    <id>901565</id>
+    <product_code>901565</product_code>
+    <title>AMMONIAK - 901565</title>
+    <short_description>Влагоустойчивата лампа AMMONIAK от гамата EGLO EXPERT е с дължина 1500мм и е изработена от бяла UV и устойчива на амоняк пластмаса със закрепване от неръждаема  …</short_description>
+    <description>Влагоустойчивата лампа AMMONIAK от гамата EGLO EXPERT е с дължина 1500мм и е изработена от бяла UV и устойчива на амоняк пластмаса със закрепване от неръждаема стомана. С клас на устойчивост на удар IK08 и клас на защита IP69K е подходяща за гъвкава употреба на закрито и на открито. Превключвателят за захранване на лампата ви позволява да зададете 4 различни настройки на мощността и с 50 000 часа те предлагат дълъг експлоатационен живот. Има и DIP превключвател на LED драйвера вътре в корпуса, който може да се използва за задаване на цветна температура от 3000K, 4000K и 6500K преди монтаж. Този ключ позволява избор на топла бяла, неутрална бяла и студена бяла светлина, в зависимост от приложението на лампата. Благодарение на 5-пиновото окабеляване е възможно серийно инсталиране на няколко лампи една след друга. И двете захранващи връзки могат да бъдат електрифицирани без инструменти с помощта на Quick Connector, който позволява гъвкав и бърз монтаж.</description>
+    <category>Ammoniak</category>
+    <sub_category/>
+    <manufacturer>EGLO</manufacturer>
+    <price>101.24</price>
+    <old_price>101.24</old_price>
+    <sku>901565</sku>
+    <ean>9008606313501</ean>
+    <meta_title>EGLO AMMONIAK LED -</meta_title>
+    <meta_description>Влагоустойчивата лампа AMMONIAK от гамата EGLO EXPERT е с дължина 1500мм и е изработена от бяла UV и устойчива на амоняк пластмаса със закрепване от неръждаема  …</meta_description>
+    <category_properties>
+      <category_property type="characteristic" name="Лумени">
+        <values>
+          <value>
+            <name>7 800</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Келвини">
+        <values>
+          <value>
+            <name>3000 / 4000 / 6500</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Материал на корпуса">
+        <values>
+          <value>
+            <name>пластмаса</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Цвят на корпуса">
+        <values>
+          <value>
+            <name>сиво</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Материал на абажур/стъкло">
+        <values>
+          <value>
+            <name>пластмаса</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Цвят на абажур/стъкло">
+        <values>
+          <value>
+            <name>бяло</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Степен на защита">
+        <values>
+          <value>
+            <name>-</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Включен източник на светлина">
+        <values>
+          <value>
+            <name>Включено</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип фасонка">
+        <values>
+          <value>
+            <name>LED</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Клас на енергийна ефективност">
+        <values>
+          <value>
+            <name>C</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Гаранция">
+        <values>
+          <value>
+            <name>3 години</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Артикулен номер">
+        <values>
+          <value>
+            <name>901565</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Дължина на артикула (в мм/in)">
+        <values>
+          <value>
+            <name>1 488 / 58,58</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Широчина на артикула (в мм/in)">
+        <values>
+          <value>
+            <name>85 / 3,35</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Височина на артикула (в мм/in)">
+        <values>
+          <value>
+            <name>81 / 3,19</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Нетно тегло (в kg)">
+        <values>
+          <value>
+            <name>1,90</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Променливост на информация източник на светлина/драйвер">
+        <values>
+          <value>
+            <name>LED + driver can be exchanged by a specialist</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Клас на защита">
+        <values>
+          <value>
+            <name>1</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Мрежово напрежение">
+        <values>
+          <value>
+            <name>220-240V,50/60Hz</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип ключ">
+        <values>
+          <value>
+            <name>без ключ</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Батерия">
+        <values>
+          <value>
+            <name>Не</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип източник на светлина 1">
+        <values>
+          <value>
+            <name>LED</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="EAN/UPC код">
+        <values>
+          <value>
+            <name>9008606313501</name>
+          </value>
+        </values>
+      </category_property>
+    </category_properties>
+    <images>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/64f8732aba66e6.25010753_101_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/64f8732aba66e6.25010753_120_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/64f8732aba66e6.25010753_106_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/64f8732aba66e6.25010753_121_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/64f8732aba66e6.25010753_102_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/64f8732aba66e6.25010753_112_0001.jpg</image>
+    </images>
+    <files>
+      <file>
+        <name>Инструкция за монтаж (pdf)</name>
+        <url>https://www.eglo.com/media/catalog/product/dam/BDA/901565_BDA.pdf</url>
+      </file>
+      <file>
+        <name>Файл с технически данни</name>
+        <url>https://tools.eglo.com/tds/bul-BG/901565</url>
+      </file>
+      <file>
+        <name>Инструкции</name>
+        <url>https://www.eglo.com/media/catalog/product/dam/DOLS/901565_DOLS.pdf</url>
+      </file>
+      <file>
+        <name>Общи указания за безопасност</name>
+        <url>https://www.eglo.com/media/wysiwyg/PDF/BLA_121.pdf</url>
+      </file>
+    </files>
+    <brands>
+      <brand>
+        <name>EGLO</name>
+      </brand>
+    </brands>
+    <tabs>
+      <tab type="description">
+        <name>Описание на продукта</name>
+        <content>&lt;div&gt;Влагоустойчивата лампа AMMONIAK от гамата EGLO EXPERT е с дължина 1500мм и е изработена от бяла UV и устойчива на амоняк пластмаса със закрепване от неръждаема стомана. С клас на устойчивост на удар IK08 и клас на защита IP69K е подходяща за гъвкава употреба на закрито и на открито. Превключвателят за захранване на лампата ви позволява да зададете 4 различни настройки на мощността и с 50 000 часа те предлагат дълъг експлоатационен живот. Има и DIP превключвател на LED драйвера вътре в корпуса, който може да се използва за задаване на цветна температура от 3000K, 4000K и 6500K преди монтаж. Този ключ позволява избор на топла бяла, неутрална бяла и студена бяла светлина, в зависимост от приложението на лампата. Благодарение на 5-пиновото окабеляване е възможно серийно инсталиране на няколко лампи една след друга. И двете захранващи връзки могат да бъдат електрифицирани без инструменти с помощта на Quick Connector, който позволява гъвкав и бърз монтаж.&lt;/div&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Размери</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row zzlmlae&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Дължина на артикула (в мм/in):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;1 488 / 58,58&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzlmbre&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Широчина на артикула (в мм/in):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;85 / 3,35&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzlmhoe&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Височина на артикула (в мм/in):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;81 / 3,19&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row ntgew&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Нетно тегло (в kg):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;1,90&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Техническа информация</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row pim_led_driver_tauschbar&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Променливост на информация източник на светлина/драйвер:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;LED + driver can be exchanged by a specialist&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzlmsck&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Клас на защита:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zznetzs&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Мрежово напрежение:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;220-240V,50/60Hz&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzschaa&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Тип ключ:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;без ключ&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzakkjn&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Батерия:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;Не&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Допълнителна информация</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row pim_fas_02_1&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Тип източник на светлина 1:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;LED&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row ean11&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;EAN/UPC код:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;9008606313501&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Информация за изтегляне</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row pim_bda&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Инструкция за монтаж (pdf):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://www.eglo.com/media/catalog/product/dam/BDA/901565_BDA.pdf&quot; target=&quot;_blank&quot;&gt;Изтегли&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row pim_techdata&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Файл с технически данни:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://tools.eglo.com/tds/bul-BG/901565&quot; target=&quot;_blank&quot;&gt;Изтегли&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row pim_dols&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Инструкции :&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://www.eglo.com/media/catalog/product/dam/DOLS/901565_DOLS.pdf&quot; target=&quot;_blank&quot;&gt;Изтегли&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;div class=&quot;product-tabs-bottom&quot;&gt;&lt;div data-appearance=&quot;default&quot; data-content-type=&quot;html&quot; data-decoded=&quot;true&quot; data-element=&quot;main&quot;&gt;&lt;tr class=&quot;attribute-row&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;
+    Общи указания за безопасност:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a href=&quot;https://www.eglo.com/media/wysiwyg/PDF/BLA_121.pdf&quot; target=&quot;_blank&quot; title=&quot;Download der allgemeinen Sicherheitshinweise&quot;&gt;
+    Изтегли&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/table&gt;</content>
+      </tab>
+    </tabs>
+  </product>
+  <product>
+    <id>12263</id>
+    <product_code>12263</product_code>
+    <title>Източник на светлина E14 - 12263</title>
+    <short_description>Лампата с LED крушка E14 е изработена от бял пластмасов материал. LED лампата с мощност 5 вата (C37) излъчва приятно топло бяло светлина с 470 лумена. Опаленият …</short_description>
+    <description>Лампата с LED крушка E14 е изработена от бял пластмасов материал. LED лампата с мощност 5 вата (C37) излъчва приятно топло бяло светлина с 470 лумена. Опаленият корпус на крушката осигурява равномерно и без отблясъци осветление.</description>
+    <category>Iztochnik na svetlina</category>
+    <sub_category/>
+    <manufacturer>EGLO</manufacturer>
+    <price>1.7</price>
+    <old_price>1.7</old_price>
+    <sku>12263</sku>
+    <ean>9002759122638</ean>
+    <meta_title>EGLO Източник на светлина LED</meta_title>
+    <meta_description>Лампата с LED крушка E14 е изработена от бял пластмасов материал. LED лампата с мощност 5 вата (C37) излъчва приятно топло бяло светлина с 470 лумена. Опаленият …</meta_description>
+    <category_properties>
+      <category_property type="characteristic" name="Лумени">
+        <values>
+          <value>
+            <name>470</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="ват 1">
+        <values>
+          <value>
+            <name>3,4</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Артикулен номер">
+        <values>
+          <value>
+            <name>12263</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Технология">
+        <values>
+          <value>
+            <name>LED - HV</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Номинален светлинен поток (в лумени)">
+        <values>
+          <value>
+            <name>470</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Форма на стъкления балон на източника на светлина">
+        <values>
+          <value>
+            <name>Свещ</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Броя в Единична Опаковка">
+        <values>
+          <value>
+            <name>1</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Клас на енергийна ефективност">
+        <values>
+          <value>
+            <name>D</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип фасонка">
+        <values>
+          <value>
+            <name>E14</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Номинална мощност на лампата (във ватове)">
+        <values>
+          <value>
+            <name>3</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Мощност на лампата (точност от 0,1W)">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Еквивалентна мощност на лампа с нажежаема жичка (ватове)">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Фактор на мощността на лампата">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Стандартен жизнен цикъл (в часове)">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Температура на околната среда">
+        <values>
+          <value>
+            <name>-</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="kW/1000h">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Променливост на информация източник на светлина/драйвер">
+        <values>
+          <value>
+            <name>LED може да се смени от потребителя</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип източник на светлина 1">
+        <values>
+          <value>
+            <name>LED</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="EAN/UPC код">
+        <values>
+          <value>
+            <name>9002759122638</name>
+          </value>
+        </values>
+      </category_property>
+    </category_properties>
+    <images>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/5f6ca0070d33e6.54967127_101_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/5f6ca0070d33e6.54967127_120_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/12263_EEI.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/12263_SPECTRAL.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/12263_LDCJPG.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/5f6ca0070d33e6.54967127_110_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/5f6ca0070d33e6.54967127_121_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/5f6ca0070d33e6.54967127_106_0001.jpg</image>
+    </images>
+    <files>
+      <file>
+        <name>Файл с технически данни</name>
+        <url>https://tools.eglo.com/tds/bul-BG/12263</url>
+      </file>
+      <file>
+        <name>Versionen TDS</name>
+        <url>https://www.eglo.com/media/catalog/product/dam/TECHDATA/bul-BG/12263_V2.pdf</url>
+      </file>
+    </files>
+    <brands>
+      <brand>
+        <name>EGLO</name>
+      </brand>
+    </brands>
+    <tabs>
+      <tab type="description">
+        <name>Описание на продукта</name>
+        <content>&lt;div&gt;Лампата с LED крушка E14 е изработена от бял пластмасов материал. LED лампата с мощност 5 вата (C37) излъчва приятно топло бяло светлина с 470 лумена. Опаленият корпус на крушката осигурява равномерно и без отблясъци осветление.&lt;/div&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Техническа информация</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row zznlapo&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Номинална мощност на лампата (във ватове):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzrawat&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Мощност на лампата (точност от 0,1W):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzeqwil&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Еквивалентна мощност на лампа с нажежаема жичка (ватове):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzlpfac&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Фактор на мощността на лампата:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzrallt&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Стандартен жизнен цикъл (в часове):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzamtem&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Температура на околната среда:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzkw000&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;kW/1000h:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row pim_led_driver_tauschbar&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Променливост на информация източник на светлина/драйвер:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;LED може да се смени от потребителя&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Допълнителна информация</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row pim_fas_02_1&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Тип източник на светлина 1:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;LED&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row ean11&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;EAN/UPC код:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;9002759122638&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Информация за изтегляне</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row pim_techdata&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Файл с технически данни:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://tools.eglo.com/tds/bul-BG/12263&quot; target=&quot;_blank&quot;&gt;Изтегли&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row eglo_tds_version&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Versionen TDS:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://www.eglo.com/media/catalog/product/dam/TECHDATA/bul-BG/12263_V2.pdf&quot; target=&quot;_blank&quot;&gt;12263_V2.pdf&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://www.eglo.com/media/catalog/product/dam/TECHDATA/bul-BG/12263_V1.pdf&quot; target=&quot;_blank&quot;&gt;12263_V1.pdf&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://www.eglo.com/media/catalog/product/dam/TECHDATA/bul-BG/12263_2021-06-16+16%3A16%3A23.pdf&quot; target=&quot;_blank&quot;&gt;12263_2021-06-16+16%3A16%3A23.pdf&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+    </tabs>
+  </product>
+  <product>
+    <id>110024</id>
+    <product_code>110024</product_code>
+    <title>Източник на светлина E27 - 110024</title>
+    <short_description>LED крушката с фасонка E27 е изработена от прозрачно стъкло. Класическата LED крушка с мощност 7,5 вата (G95) осигурява приятно топло бяло осветление с 806 луме …</short_description>
+    <description>LED крушката с фасонка E27 е изработена от прозрачно стъкло. Класическата LED крушка с мощност 7,5 вата (G95) осигурява приятно топло бяло осветление с 806 лумена във вашите жилищни помещения и е димируема (в зависимост от характеристиките на димиране на вашия осветител).</description>
+    <category>Iztochnik na svetlina</category>
+    <sub_category/>
+    <manufacturer>EGLO</manufacturer>
+    <price>6.95</price>
+    <old_price>6.95</old_price>
+    <sku>110024</sku>
+    <ean>9008606227617</ean>
+    <meta_title>EGLO Източник на светлина LED</meta_title>
+    <meta_description>LED крушката с фасонка E27 е изработена от прозрачно стъкло. Класическата LED крушка с мощност 7,5 вата (G95) осигурява приятно топло бяло осветление с 806 луме …</meta_description>
+    <category_properties>
+      <category_property type="characteristic" name="Лумени">
+        <values>
+          <value>
+            <name>806</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="ват 1">
+        <values>
+          <value>
+            <name>5,9</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Артикулен номер">
+        <values>
+          <value>
+            <name>110024</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Технология">
+        <values>
+          <value>
+            <name>LED - HV</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Номинален светлинен поток (в лумени)">
+        <values>
+          <value>
+            <name>806</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Форма на стъкления балон на източника на светлина">
+        <values>
+          <value>
+            <name>Сфера</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Броя в Единична Опаковка">
+        <values>
+          <value>
+            <name>1</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Клас на енергийна ефективност">
+        <values>
+          <value>
+            <name>D</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип фасонка">
+        <values>
+          <value>
+            <name>E27</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Номинална мощност на лампата (във ватове)">
+        <values>
+          <value>
+            <name>8</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Мощност на лампата (точност от 0,1W)">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Еквивалентна мощност на лампа с нажежаема жичка (ватове)">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Фактор на мощността на лампата">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Стандартен жизнен цикъл (в часове)">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Температура на околната среда">
+        <values>
+          <value>
+            <name>-</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="kW/1000h">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Функции">
+        <values>
+          <value>
+            <name>димируем</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип източник на светлина 1">
+        <values>
+          <value>
+            <name>LED-FILAMENT</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="EAN/UPC код">
+        <values>
+          <value>
+            <name>9008606227617</name>
+          </value>
+        </values>
+      </category_property>
+    </category_properties>
+    <images>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/60cb5c811a80a0.06248635_101_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/60cb5c811a80a0.06248635_120_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/110024_EEI.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/110024_SPECTRAL.png</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/60cb5c811a80a0.06248635_121_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/60cb5c811a80a0.06248635_106_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/60cb5c811a80a0.06248635_112_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/60cb5c811a80a0.06248635_110_0001.jpg</image>
+    </images>
+    <files>
+      <file>
+        <name>Файл с технически данни</name>
+        <url>https://tools.eglo.com/tds/bul-BG/110024</url>
+      </file>
+      <file>
+        <name>Versionen TDS</name>
+        <url>https://www.eglo.com/media/catalog/product/dam/TECHDATA/bul-BG/110024_V2.pdf</url>
+      </file>
+    </files>
+    <brands>
+      <brand>
+        <name>EGLO</name>
+      </brand>
+    </brands>
+    <tabs>
+      <tab type="description">
+        <name>Описание на продукта</name>
+        <content>&lt;div&gt;LED крушката с фасонка E27 е изработена от прозрачно стъкло. Класическата LED крушка с мощност 7,5 вата (G95) осигурява приятно топло бяло осветление с 806 лумена във вашите жилищни помещения и е димируема (в зависимост от характеристиките на димиране на вашия осветител).&lt;/div&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Техническа информация</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row zznlapo&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Номинална мощност на лампата (във ватове):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzrawat&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Мощност на лампата (точност от 0,1W):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzeqwil&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Еквивалентна мощност на лампа с нажежаема жичка (ватове):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzlpfac&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Фактор на мощността на лампата:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzrallt&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Стандартен жизнен цикъл (в часове):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzamtem&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Температура на околната среда:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzkw000&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;kW/1000h:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row b2c_filter_function&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Функции:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;димируем&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Допълнителна информация</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row pim_fas_02_1&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Тип източник на светлина 1:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;LED-FILAMENT&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row ean11&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;EAN/UPC код:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;9008606227617&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Информация за изтегляне</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row pim_techdata&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Файл с технически данни:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://tools.eglo.com/tds/bul-BG/110024&quot; target=&quot;_blank&quot;&gt;Изтегли&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row eglo_tds_version&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Versionen TDS:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://www.eglo.com/media/catalog/product/dam/TECHDATA/bul-BG/110024_V2.pdf&quot; target=&quot;_blank&quot;&gt;110024_V2.pdf&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://www.eglo.com/media/catalog/product/dam/TECHDATA/bul-BG/110024_V1.pdf&quot; target=&quot;_blank&quot;&gt;110024_V1.pdf&lt;/a&gt;&lt;/br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+    </tabs>
+  </product>
+  <product>
+    <id>110181</id>
+    <product_code>110181</product_code>
+    <title>LED Източник на светлина E27 7.3W 2700K Топло бял 806lm - 110181</title>
+    <short_description>LED крушката с фасонка E27 е изработена от прозрачно стъкло. Класическата 7-ватова LED лампа (G95) излъчва приятно топло бяло светлина с 806 лумена и може да се …</short_description>
+    <description>LED крушката с фасонка E27 е изработена от прозрачно стъкло. Класическата 7-ватова LED лампа (G95) излъчва приятно топло бяло светлина с 806 лумена и може да се димира в три степени чрез обикновения стенен ключ.</description>
+    <category>Iztochnik na svetlina</category>
+    <sub_category/>
+    <manufacturer>EGLO</manufacturer>
+    <price>10.22</price>
+    <old_price>10.22</old_price>
+    <sku>110181</sku>
+    <ean>9008606229024</ean>
+    <meta_title>EGLO Източник на светлина LED</meta_title>
+    <meta_description>LED крушката с фасонка E27 е изработена от прозрачно стъкло. Класическата 7-ватова LED лампа (G95) излъчва приятно топло бяло светлина с 806 лумена и може да се …</meta_description>
+    <category_properties>
+      <category_property type="characteristic" name="Лумени">
+        <values>
+          <value>
+            <name>806</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="ват 1">
+        <values>
+          <value>
+            <name>7,3</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Артикулен номер">
+        <values>
+          <value>
+            <name>110181</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Технология">
+        <values>
+          <value>
+            <name>LED - HV</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Номинален светлинен поток (в лумени)">
+        <values>
+          <value>
+            <name>806</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Форма на стъкления балон на източника на светлина">
+        <values>
+          <value>
+            <name>Сфера</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Броя в Единична Опаковка">
+        <values>
+          <value>
+            <name>1</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Клас на енергийна ефективност">
+        <values>
+          <value>
+            <name>E</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип фасонка">
+        <values>
+          <value>
+            <name>E27</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Номинална мощност на лампата (във ватове)">
+        <values>
+          <value>
+            <name>7</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Мощност на лампата (точност от 0,1W)">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Еквивалентна мощност на лампа с нажежаема жичка (ватове)">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Фактор на мощността на лампата">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Стандартен жизнен цикъл (в часове)">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Температура на околната среда">
+        <values>
+          <value>
+            <name>-</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="kW/1000h">
+        <values>
+          <value>
+            <name>0</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Функции">
+        <values>
+          <value>
+            <name>3-step dimming, димируем</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип източник на светлина 1">
+        <values>
+          <value>
+            <name>LED</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="EAN/UPC код">
+        <values>
+          <value>
+            <name>9008606229024</name>
+          </value>
+        </values>
+      </category_property>
+    </category_properties>
+    <images>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/60cb5c89928d19.37143407_101_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/60cb5c89928d19.37143407_120_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/110181_EEI.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/110181_SPECTRAL.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/60cb5c89928d19.37143407_121_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/60cb5c89928d19.37143407_106_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/60cb5c89928d19.37143407_112_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/60cb5c89928d19.37143407_110_0001.jpg</image>
+    </images>
+    <files>
+      <file>
+        <name>Файл с технически данни</name>
+        <url>https://tools.eglo.com/tds/bul-BG/110181</url>
+      </file>
+      <file>
+        <name>Versionen TDS</name>
+        <url>https://www.eglo.com/media/catalog/product/dam/TECHDATA/bul-BG/110181_V2.pdf</url>
+      </file>
+    </files>
+    <brands>
+      <brand>
+        <name>EGLO</name>
+      </brand>
+    </brands>
+    <tabs>
+      <tab type="description">
+        <name>Описание на продукта</name>
+        <content>&lt;div&gt;LED крушката с фасонка E27 е изработена от прозрачно стъкло. Класическата 7-ватова LED лампа (G95) излъчва приятно топло бяло светлина с 806 лумена и може да се димира в три степени чрез обикновения стенен ключ.&lt;/div&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Техническа информация</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row zznlapo&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Номинална мощност на лампата (във ватове):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzrawat&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Мощност на лампата (точност от 0,1W):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzeqwil&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Еквивалентна мощност на лампа с нажежаема жичка (ватове):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzlpfac&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Фактор на мощността на лампата:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzrallt&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Стандартен жизнен цикъл (в часове):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzamtem&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Температура на околната среда:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzkw000&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;kW/1000h:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row b2c_filter_function&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Функции:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;3-step dimming, димируем&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Допълнителна информация</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row pim_fas_02_1&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Тип източник на светлина 1:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;LED&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row ean11&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;EAN/UPC код:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;9008606229024&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Информация за изтегляне</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row pim_techdata&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Файл с технически данни:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://tools.eglo.com/tds/bul-BG/110181&quot; target=&quot;_blank&quot;&gt;Изтегли&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row eglo_tds_version&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Versionen TDS:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://www.eglo.com/media/catalog/product/dam/TECHDATA/bul-BG/110181_V2.pdf&quot; target=&quot;_blank&quot;&gt;110181_V2.pdf&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://www.eglo.com/media/catalog/product/dam/TECHDATA/bul-BG/110181_V1.pdf&quot; target=&quot;_blank&quot;&gt;110181_V1.pdf&lt;/a&gt;&lt;/br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+    </tabs>
+  </product>
+  <product>
+    <id>901124</id>
+    <product_code>901124</product_code>
+    <title>BALAMORTA-Z висящо осветително тяло/пендел - 901124</title>
+    <short_description>Светодиодният пендел &quot;BALAMORTA-Z&quot; от серията Connect.Z в черен цвят е лампа с три източника на светлина, която може да се управлява чрез дистанционно управлени …</short_description>
+    <description>Светодиодният пендел &quot;BALAMORTA-Z&quot; от серията Connect.Z в черен цвят е лампа с три източника на светлина, която може да се управлява чрез дистанционно управление и приложение. С функцията RGB и CCT цветът на светлината и цветната температура могат да бъдат индивидуално регулирани. Тази модерна лампа създава стилна атмосфера във всяка стая. Той е идеален за използване във всекидневната, трапезарията или други зони, където е желано регулируемо осветление. Дистанционно управление не е включено.</description>
+    <category>Visyashcho osvetitelno tyalo pendel balamorta z</category>
+    <sub_category/>
+    <manufacturer>EGLO</manufacturer>
+    <price>199.4</price>
+    <old_price>199.4</old_price>
+    <sku>901124</sku>
+    <ean>9008606312856</ean>
+    <meta_title>EGLO BALAMORTA-Z LED висящо осветително тяло/пендел</meta_title>
+    <meta_description>Светодиодният пендел &quot;BALAMORTA-Z&quot; от серията Connect.Z в черен цвят е лампа с три източника на светлина, която може да се управлява чрез дистанционно управлени …</meta_description>
+    <category_properties>
+      <category_property type="characteristic" name="Лумени">
+        <values>
+          <value>
+            <name>1 500</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Келвини">
+        <values>
+          <value>
+            <name>2700-6500</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Материал на корпуса">
+        <values>
+          <value>
+            <name>стомана</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Цвят на корпуса">
+        <values>
+          <value>
+            <name>черно</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Материал на абажур/стъкло">
+        <values>
+          <value>
+            <name>пластмаса</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Цвят на абажур/стъкло">
+        <values>
+          <value>
+            <name>бяло</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Степен на защита">
+        <values>
+          <value>
+            <name>IP20</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Включен източник на светлина">
+        <values>
+          <value>
+            <name>Включено</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип фасонка">
+        <values>
+          <value>
+            <name>LED</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Функции">
+        <values>
+          <value>
+            <name>Tunable White, ZigBee, димируем, Дистанционно управление, Промяна на цветната температура, Умен дом, Управление чрез приложение</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Клас на енергийна ефективност">
+        <values>
+          <value>
+            <name>D</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Гаранция">
+        <values>
+          <value>
+            <name>5 години</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Артикулен номер">
+        <values>
+          <value>
+            <name>901124</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Дължина на артикула (в мм/in)">
+        <values>
+          <value>
+            <name>780 / 30,71</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Широчина на артикула (в мм/in)">
+        <values>
+          <value>
+            <name>55 / 2,17</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Височина на артикула (в мм/in)">
+        <values>
+          <value>
+            <name>1 100 / 43,31</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Дължина на издадената част (в mm/in)">
+        <values>
+          <value>
+            <name>780 / 30,71</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Височина на издадената част (в mm/in)">
+        <values>
+          <value>
+            <name>35 / 1,38</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Нетно тегло (в kg)">
+        <values>
+          <value>
+            <name>2,83</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Променливост на информация източник на светлина/драйвер">
+        <values>
+          <value>
+            <name>LED + driver can be exchanged by a specialist</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Клас на защита">
+        <values>
+          <value>
+            <name>2</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Мрежово напрежение">
+        <values>
+          <value>
+            <name>220-240V,50/60Hz</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип ключ">
+        <values>
+          <value>
+            <name>без ключ</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Батерия">
+        <values>
+          <value>
+            <name>Не</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип източник на светлина 1">
+        <values>
+          <value>
+            <name>LED</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="EAN/UPC код">
+        <values>
+          <value>
+            <name>9008606312856</name>
+          </value>
+        </values>
+      </category_property>
+    </category_properties>
+    <images>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/640706046b4870.25789009_101_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/640706046b4870.25789009_120_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/640706046b4870.25789009_121_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/640706046b4870.25789009_106_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/640706046b4870.25789009_112_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/640706046b4870.25789009_102_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/640706046b4870.25789009_120_0002.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/640706046b4870.25789009_110_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/640706046b4870.25789009_120_0003.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/640706046b4870.25789009_120_0004.jpg</image>
+    </images>
+    <files>
+      <file>
+        <name>Инструкция за монтаж (pdf)</name>
+        <url>https://www.eglo.com/media/catalog/product/dam/BDA/901124_BDA.pdf</url>
+      </file>
+      <file>
+        <name>Файл с технически данни</name>
+        <url>https://tools.eglo.com/tds/bul-BG/901124</url>
+      </file>
+      <file>
+        <name>Инструкции</name>
+        <url>https://www.eglo.com/media/catalog/product/dam/DOLS/901124_DOLS.pdf</url>
+      </file>
+      <file>
+        <name>Общи указания за безопасност</name>
+        <url>https://www.eglo.com/media/wysiwyg/PDF/BLA_121.pdf</url>
+      </file>
+    </files>
+    <brands>
+      <brand>
+        <name>EGLO</name>
+      </brand>
+    </brands>
+    <tabs>
+      <tab type="description">
+        <name>Описание на продукта</name>
+        <content>&lt;div&gt;Светодиодният пендел &quot;BALAMORTA-Z&quot; от серията Connect.Z в черен цвят е лампа с три източника на светлина, която може да се управлява чрез дистанционно управление и приложение. С функцията RGB и CCT цветът на светлината и цветната температура могат да бъдат индивидуално регулирани. Тази модерна лампа създава стилна атмосфера във всяка стая. Той е идеален за използване във всекидневната, трапезарията или други зони, където е желано регулируемо осветление. Дистанционно управление не е включено.&lt;/div&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Размери</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row zzlmlae&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Дължина на артикула (в мм/in):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;780 / 30,71&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzlmbre&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Широчина на артикула (в мм/in):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;55 / 2,17&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzlmhoe&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Височина на артикула (в мм/in):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;1 100 / 43,31&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzdblae&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Дължина на издадената част (в mm/in):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;780 / 30,71&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzdbhoe&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Височина на издадената част (в mm/in):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;35 / 1,38&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row ntgew&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Нетно тегло (в kg):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;2,83&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Техническа информация</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row pim_led_driver_tauschbar&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Променливост на информация източник на светлина/драйвер:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;LED + driver can be exchanged by a specialist&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzlmsck&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Клас на защита:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zznetzs&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Мрежово напрежение:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;220-240V,50/60Hz&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzschaa&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Тип ключ:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;без ключ&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzakkjn&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Батерия:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;Не&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Допълнителна информация</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row pim_fas_02_1&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Тип източник на светлина 1:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;LED&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row ean11&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;EAN/UPC код:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;9008606312856&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Информация за изтегляне</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row pim_bda&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Инструкция за монтаж (pdf):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://www.eglo.com/media/catalog/product/dam/BDA/901124_BDA.pdf&quot; target=&quot;_blank&quot;&gt;Изтегли&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row pim_techdata&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Файл с технически данни:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://tools.eglo.com/tds/bul-BG/901124&quot; target=&quot;_blank&quot;&gt;Изтегли&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row pim_dols&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Инструкции :&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://www.eglo.com/media/catalog/product/dam/DOLS/901124_DOLS.pdf&quot; target=&quot;_blank&quot;&gt;Изтегли&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;div class=&quot;product-tabs-bottom&quot;&gt;&lt;div data-appearance=&quot;default&quot; data-content-type=&quot;html&quot; data-decoded=&quot;true&quot; data-element=&quot;main&quot;&gt;&lt;tr class=&quot;attribute-row&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;
+    Общи указания за безопасност:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a href=&quot;https://www.eglo.com/media/wysiwyg/PDF/BLA_121.pdf&quot; target=&quot;_blank&quot; title=&quot;Download der allgemeinen Sicherheitshinweise&quot;&gt;
+    Изтегли&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/table&gt;</content>
+      </tab>
+    </tabs>
+  </product>
+  <product>
+    <id>43977</id>
+    <product_code>43977</product_code>
+    <title>TABLEY настолно осветление - 43977</title>
+    <short_description>Настолната лампа TABLEY е изработена с два вложени кръгли абажура и черна метална основа. Хармоничната комбинация от външния ленен абажур в натурален цвят и вът …</short_description>
+    <description>Настолната лампа TABLEY е изработена с два вложени кръгли абажура и черна метална основа. Хармоничната комбинация от външния ленен абажур в натурален цвят и вътрешния абажур от бамбукова мрежа придава на лампата уютен вид. Когато е включена, се вижда естествената структура на плата. Освен това лесно може да се включва и изключва чрез ключ на кабела. Настолната лампа се вписва в модерни интериорни стилове като природния тренд и осигурява уютно осветление в спалнята, хола, трапезарията или коридора. Крушката не е включена в комплекта. Лампата е подходяща за всяка крушка с фасонка E27.</description>
+    <category>Nastolno osvetlenie tabley</category>
+    <sub_category/>
+    <manufacturer>EGLO</manufacturer>
+    <price>59.82</price>
+    <old_price>59.82</old_price>
+    <sku>43977</sku>
+    <ean>9002759439774</ean>
+    <meta_title>EGLO TABLEY настолно осветление</meta_title>
+    <meta_description>Настолната лампа TABLEY е изработена с два вложени кръгли абажура и черна метална основа. Хармоничната комбинация от външния ленен абажур в натурален цвят и вът …</meta_description>
+    <category_properties>
+      <category_property type="characteristic" name="Материал на корпуса">
+        <values>
+          <value>
+            <name>стомана</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Цвят на корпуса">
+        <values>
+          <value>
+            <name>черно</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Материал на абажур/стъкло">
+        <values>
+          <value>
+            <name>-</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Цвят на абажур/стъкло">
+        <values>
+          <value>
+            <name>-</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Степен на защита">
+        <values>
+          <value>
+            <name>IP20</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Включен източник на светлина">
+        <values>
+          <value>
+            <name>Не е включено</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип фасонка">
+        <values>
+          <value>
+            <name>E27</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Гаранция">
+        <values>
+          <value>
+            <name>2 години</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Артикулен номер">
+        <values>
+          <value>
+            <name>43977</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Височина на артикула (в мм/in)">
+        <values>
+          <value>
+            <name>425 / 16,73</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Диаметър на артикула (в мм/in)">
+        <values>
+          <value>
+            <name>190 / 7,48</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Диаметър на основата (в мм/in)">
+        <values>
+          <value>
+            <name>145 / 5,71</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Нетно тегло (в kg)">
+        <values>
+          <value>
+            <name>0,61</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Клас на защита">
+        <values>
+          <value>
+            <name>2</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Мрежово напрежение">
+        <values>
+          <value>
+            <name>220-240V,50/60Hz</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Работно напрежение">
+        <values>
+          <value>
+            <name>220-240V,50/60Hz</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип ключ">
+        <values>
+          <value>
+            <name>кабелен ключ</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Батерия">
+        <values>
+          <value>
+            <name>Не</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="Тип източник на светлина 1">
+        <values>
+          <value>
+            <name>AGL</name>
+          </value>
+        </values>
+      </category_property>
+      <category_property type="characteristic" name="EAN/UPC код">
+        <values>
+          <value>
+            <name>9002759439774</name>
+          </value>
+        </values>
+      </category_property>
+    </category_properties>
+    <images>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/62726fe0c84dc7.88254357_101_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/62726fe0c84dc7.88254357_120_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/62726fe0c84dc7.88254357_121_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/62726fe0c84dc7.88254357_106_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/62726fe0c84dc7.88254357_102_0001.jpg</image>
+      <image>https://www.eglo.com/media/catalog/product/cache/afbf8cb4b2ec9a061ef5ecd4eb9e66cf/dam/cumulus/62726fe0c84dc7.88254357_110_0001.jpg</image>
+    </images>
+    <files>
+      <file>
+        <name>Инструкция за монтаж (pdf)</name>
+        <url>https://www.eglo.com/media/catalog/product/dam/BDA/43977_BDA.pdf</url>
+      </file>
+      <file>
+        <name>Файл с технически данни</name>
+        <url>https://tools.eglo.com/tds/bul-BG/43977</url>
+      </file>
+      <file>
+        <name>Общи указания за безопасност</name>
+        <url>https://www.eglo.com/media/wysiwyg/PDF/BLA_121.pdf</url>
+      </file>
+    </files>
+    <brands>
+      <brand>
+        <name>EGLO</name>
+      </brand>
+    </brands>
+    <tabs>
+      <tab type="description">
+        <name>Описание на продукта</name>
+        <content>&lt;div&gt;Настолната лампа TABLEY е изработена с два вложени кръгли абажура и черна метална основа. Хармоничната комбинация от външния ленен абажур в натурален цвят и вътрешния абажур от бамбукова мрежа придава на лампата уютен вид. Когато е включена, се вижда естествената структура на плата. Освен това лесно може да се включва и изключва чрез ключ на кабела. Настолната лампа се вписва в модерни интериорни стилове като природния тренд и осигурява уютно осветление в спалнята, хола, трапезарията или коридора. Крушката не е включена в комплекта. Лампата е подходяща за всяка крушка с фасонка E27.&lt;/div&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Размери</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row zzlmhoe&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Височина на артикула (в мм/in):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;425 / 16,73&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzlmdur&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Диаметър на артикула (в мм/in):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;190 / 7,48&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzsbgso&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Диаметър на основата (в мм/in):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;145 / 5,71&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row ntgew&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Нетно тегло (в kg):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;0,61&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Техническа информация</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row zzlmsck&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Клас на защита:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zznetzs&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Мрежово напрежение:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;220-240V,50/60Hz&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzbtrsp&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Работно напрежение:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;220-240V,50/60Hz&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzschaa&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Тип ключ:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;кабелен ключ&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row zzakkjn&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Батерия:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;Не&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Допълнителна информация</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row pim_fas_02_1&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Тип източник на светлина 1:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;AGL&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row ean11&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;EAN/UPC код:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;9002759439774&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+      </tab>
+      <tab type="characteristics">
+        <name>Информация за изтегляне</name>
+        <content>&lt;table&gt;&lt;tr class=&quot;attribute-row pim_bda&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Инструкция за монтаж (pdf):&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://www.eglo.com/media/catalog/product/dam/BDA/43977_BDA.pdf&quot; target=&quot;_blank&quot;&gt;Изтегли&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;attribute-row pim_techdata&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;Файл с технически данни:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a class=&quot;attribute-download&quot; href=&quot;https://tools.eglo.com/tds/bul-BG/43977&quot; target=&quot;_blank&quot;&gt;Изтегли&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;div class=&quot;product-tabs-bottom&quot;&gt;&lt;div data-appearance=&quot;default&quot; data-content-type=&quot;html&quot; data-decoded=&quot;true&quot; data-element=&quot;main&quot;&gt;&lt;tr class=&quot;attribute-row&quot;&gt;&lt;td class=&quot;attribute-label&quot;&gt;
+    Общи указания за безопасност:&lt;/td&gt;&lt;td class=&quot;attribute-value&quot;&gt;&lt;a href=&quot;https://www.eglo.com/media/wysiwyg/PDF/BLA_121.pdf&quot; target=&quot;_blank&quot; title=&quot;Download der allgemeinen Sicherheitshinweise&quot;&gt;
+    Изтегли&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/table&gt;</content>
+      </tab>
+    </tabs>
+  </product>
+</products>
