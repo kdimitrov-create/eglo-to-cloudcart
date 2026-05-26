@@ -205,6 +205,11 @@ def parse_product(code: str, html_path: Path) -> dict:
         if panel:
             tabs_out[label] = panel.decode_contents().strip()
 
+    product_url = ""
+    canon = soup.find("link", rel="canonical")
+    if canon and canon.get("href"):
+        product_url = canon["href"]
+
     return {
         "code": code,
         "title": title,
@@ -213,7 +218,8 @@ def parse_product(code: str, html_path: Path) -> dict:
         "category": category,
         "sub_category": sub_category,
         "price": price,
-        "ean": ean,
+        "barcode": ean or code,
+        "url": product_url,
         "meta_title": meta_title,
         "meta_description": meta_desc,
         "properties": all_props,
@@ -225,57 +231,52 @@ def parse_product(code: str, html_path: Path) -> dict:
 
 
 def build_xml(products: list[dict]) -> bytes:
+    """Emit CloudCart import XML matching the production feed format
+    (kaisai-bulgaria.com synch-xml export). Tag order is significant for the
+    CloudCart importer's visual diffs, so we keep it identical to the reference.
+    """
     root = Element("products")
     for p in products:
         prod = SubElement(root, "product")
-        SubElement(prod, "id").text = p["code"]
+        SubElement(prod, "id").text = ""
         SubElement(prod, "product_code").text = p["code"]
+        SubElement(prod, "barcode").text = p["barcode"]
         SubElement(prod, "title").text = p["title"]
         SubElement(prod, "short_description").text = p["short_description"]
         SubElement(prod, "description").text = p["description"]
-        SubElement(prod, "category").text = p["category"]
-        SubElement(prod, "sub_category").text = p["sub_category"]
+        SubElement(prod, "minimum").text = "1"
         SubElement(prod, "manufacturer").text = MANUFACTURER
-        SubElement(prod, "price").text = p["price"]
-        SubElement(prod, "old_price").text = p["price"]
+        SubElement(prod, "weight").text = ""
         SubElement(prod, "sku").text = p["code"]
-        if p["ean"]:
-            SubElement(prod, "ean").text = p["ean"]
         SubElement(prod, "meta_title").text = p["meta_title"]
         SubElement(prod, "meta_description").text = p["meta_description"]
+        SubElement(prod, "url").text = p["url"]
+        SubElement(prod, "category").text = p["category"]
+        SubElement(prod, "sub_category").text = p["sub_category"]
 
         if p["properties"]:
             cp_root = SubElement(prod, "category_properties")
             for name, value in p["properties"]:
-                cp = SubElement(cp_root, "category_property",
-                                {"type": "characteristic", "name": name})
+                cp = SubElement(cp_root, "category_property", {"name": name})
                 vs = SubElement(cp, "values")
                 v = SubElement(vs, "value")
                 SubElement(v, "name").text = value
+
+        if p["tabs"]:
+            tabs_el = SubElement(prod, "tabs")
+            for label, html in p["tabs"].items():
+                tab_el = SubElement(tabs_el, "tab")
+                SubElement(tab_el, "name").text = label
+                SubElement(tab_el, "description").text = html
+
+        SubElement(prod, "price").text = p["price"]
+        SubElement(prod, "original_price").text = p["price"]
+        SubElement(prod, "quantity").text = ""
 
         if p["images"]:
             imgs = SubElement(prod, "images")
             for url in p["images"]:
                 SubElement(imgs, "image").text = url
-
-        if p["files"]:
-            fs = SubElement(prod, "files")
-            for f in p["files"]:
-                fel = SubElement(fs, "file")
-                SubElement(fel, "name").text = f["name"]
-                SubElement(fel, "url").text = f["url"]
-
-        brands = SubElement(prod, "brands")
-        b = SubElement(brands, "brand")
-        SubElement(b, "name").text = MANUFACTURER
-
-        if p["tabs"]:
-            tabs_el = SubElement(prod, "tabs")
-            for label, html in p["tabs"].items():
-                tab_type = "description" if label == TAB_LABELS["description"] else "characteristics"
-                tab_el = SubElement(tabs_el, "tab", {"type": tab_type})
-                SubElement(tab_el, "name").text = label
-                SubElement(tab_el, "content").text = html
 
     raw = tostring(root, encoding="utf-8")
     pretty = minidom.parseString(raw).toprettyxml(indent="  ", encoding="utf-8")
