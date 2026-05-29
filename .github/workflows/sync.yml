@@ -1,0 +1,67 @@
+name: EGLO sync
+
+on:
+  schedule:
+    # every 8 hours (00:00, 08:00, 16:00 UTC)
+    - cron: "0 0,8,16 * * *"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max products to process (0 = all)"
+        required: false
+        default: "0"
+      no_images:
+        description: "Skip image uploads"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Refresh sitemap + category mapping
+        env:
+          CLOUDCART_PAT: ${{ secrets.CLOUDCART_PAT }}
+        run: |
+          python src/category_mapper.py
+          python src/mirror_categories.py
+
+      - name: Sync products
+        env:
+          CLOUDCART_PAT: ${{ secrets.CLOUDCART_PAT }}
+        run: |
+          LIMIT_FLAG=""
+          if [ -n "${{ inputs.limit }}" ] && [ "${{ inputs.limit }}" != "0" ]; then
+            LIMIT_FLAG="--limit ${{ inputs.limit }}"
+          fi
+          NO_IMG_FLAG=""
+          if [ "${{ inputs.no_images }}" = "true" ]; then
+            NO_IMG_FLAG="--no-images"
+          fi
+          python src/sync.py $LIMIT_FLAG $NO_IMG_FLAG
+
+      - name: Commit updated state
+        run: |
+          git config user.name "eglo-sync-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state/products.json cache/category_map.json cache/cloudcart_category_ids.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "sync: state update [skip ci]"
+            git push
+          else
+            echo "No state changes to commit"
+          fi
